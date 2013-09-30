@@ -6,32 +6,10 @@
 }
 
 @media all and (-webkit-min-device-pixel-ratio:2) {
-		
-	.deploy-left-sidebar{	background-image:url(../images/misc/nav@2x.png);	 			-webkit-background-size: 18px 12px;}
-	.deploy-right-sidebar{	background-image:url(../images/misc/contact@2x.png);	 	-webkit-background-size: 18px 12px;}
 	
-	.nav-home{		background-image:url(../images/navigation/home@2x.png);	 	-webkit-background-size: 51px 51px;}
-	.nav-about{		background-image:url(../images/navigation/about@2x.png);	 -webkit-background-size: 51px 51px;}
-	.nav-features{	background-image:url(../images/navigation/features@2x.png); -webkit-background-size: 51px 51px;}
 	
-	.nav-portfolio{	background-image:url(../images/navigation/folio@2x.png);	-webkit-background-size: 51px 51px;}
-	.nav-videos{	background-image:url(../images/navigation/video@2x.png);	-webkit-background-size: 51px 51px;}
-	.nav-blog{		background-image:url(../images/navigation/blog@2x.png);		-webkit-background-size: 51px 51px;}
-	
-	.nav-mobile{	background-image:url(../images/navigation/phone@2x.png);	-webkit-background-size: 51px 51px;}
-	.nav-sms{		background-image:url(../images/navigation/chat@2x.png);		-webkit-background-size: 51px 51px;}
-	.nav-mail{		background-image:url(../images/navigation/mail@2x.png);		-webkit-background-size: 51px 51px;}
-	
-	.icon-heading{	background-image:url(../images/navigation/heading@2x.png);	-webkit-background-size: 20px 20px;}
 
-	.deploy-share{	background-image:url(../images/navigation/go-home@2x.png); -webkit-background-size:16px 16px;}
-	.deploy-menu{	background-image:url(../images/navigation/nav-deploy@2x.png); -webkit-background-size:16px 16px;}
 
-	
-	
-	.swipe-null-box{	background-image:url(../images/ui/empty@2x.png); -webkit-background-size:16px 16px;}
-	.swipe-check-box{	background-image:url(../images/ui/cross@2x.png); -webkit-background-size:16px 16px;}
-	.swipe-tick-box{	background-image:url(../images/ui/tick@2x.png);	 -webkit-background-size:16px 16px;}
 	
 	.list-address{			background-image:url(../images/lists/address_32.png);		-webkit-background-size:16px 16px; }
 	.list-block{			background-image:url(../images/lists/block_32.png);			-webkit-background-size:16px 16px; }
@@ -75,37 +53,37 @@
 	.list-warning{			background-image:url(../images/lists/warning_32.png);		-webkit-background-size:16px 16px; }
 
 
-	.show-toggle-v5{		background-image:url(../images/ui/minus@2x.png);			-webkit-background-size:12px 12px;		}
-	.hide-toggle-v5{		background-image:url(../images/ui/plus@2x.png);				-webkit-background-size:12px 12px;		}
+	.show-toggle-v5{		background-image:url(../images/ui/minus_402x.png);			-webkit-background-size:12px 12px;		}
+	.hide-toggle-v5{		background-image:url(../images/ui/plus_402x.png);				-webkit-background-size:12px 12px;		}
 	
 	.show-toggle-v4{		background-image:url(../images/lists/delete_32.png);		-webkit-background-size:16px 16px;		}
 	.hide-toggle-v4{		background-image:url(../images/lists/plus_32.png);			-webkit-background-size:16px 16px;		}
 	
-	.show-toggle-v3{		background-image:url(../images/ui/switch-on@2x.png); 		-webkit-background-size:61px 27px;		}
-	.hide-toggle-v3{		background-image:url(../images/ui/switch-off@2x.png);		-webkit-background-size:61px 27px;		}
+	.show-toggle-v3{		background-image:url(../images/ui/switch-on_402x.png); 		-webkit-background-size:61px 27px;		}
+	.hide-toggle-v3{		background-image:url(../images/ui/switch-off_402x.png);		-webkit-background-size:61px 27px;		}
 	
 	.show-toggle-v2{		background-image:url(../images/lists/delete_32.png);		-webkit-background-size:16px 16px;		}
 	.hide-toggle-v2{		background-image:url(../images/lists/plus_32.png);			-webkit-background-size:16px 16px;		}
 			
-	.show-toggle-v1{		background-image:url(../images/ui/minus@2x.png);			-webkit-background-size:12px 12px;		}
-	.hide-toggle-v1{		background-image:url(../images/ui/plus@2x.png);				-webkit-background-size:12px 12px;		}
+	.show-toggle-v1{		background-image:url(../images/ui/minus_402x.png);			-webkit-background-size:12px 12px;		}
+	.hide-toggle-v1{		background-image:url(../images/ui/plus_402x.png);				-webkit-background-size:12px 12px;		}
 	
 	
 	/*Checkboxes*/
 	/*//////////*/
-	.checkbox-v1{	background-image:url(../images/ui/checkbox@2x.png);						-webkit-background-size:16px 18px;}
-	.checked-v1{	background-image:url(../images/ui/checkbox-selected@2x.png)!important;	-webkit-background-size:16px 18px;}
-	.checkbox-v2{	background-image:url(../images/ui/checkbox2@2x.png);					-webkit-background-size:16px 18px;}
-	.checked-v2{	background-image:url(../images/ui/checkbox2-selected@2x.png)!important;	-webkit-background-size:16px 18px;}
-	.checkbox-v3{	background-image:url(../images/ui/empty@2x.png);						-webkit-background-size:16px 16px;}
-	.checked-v3{	background-image:url(../images/ui/cross@2x.png)!important;				-webkit-background-size:16px 16px;}
-	.checkbox-v4{	background-image:url(../images/ui/empty@2x.png);						-webkit-background-size:16px 16px;}
-	.checked-v4{	background-image:url(../images/ui/tick@2x.png)!important;				-webkit-background-size:16px 16px;}
+	.checkbox-v1{	background-image:url(../images/ui/checkbox_402x.png);						-webkit-background-size:16px 18px;}
+	.checked-v1{	background-image:url(../images/ui/checkbox-selected_402x.png)!important;	-webkit-background-size:16px 18px;}
+	.checkbox-v2{	background-image:url(../images/ui/checkbox2_402x.png);					-webkit-background-size:16px 18px;}
+	.checked-v2{	background-image:url(../images/ui/checkbox2-selected_402x.png)!important;	-webkit-background-size:16px 18px;}
+	.checkbox-v3{	background-image:url(../images/ui/empty_402x.png);						-webkit-background-size:16px 16px;}
+	.checked-v3{	background-image:url(../images/ui/cross_402x.png)!important;				-webkit-background-size:16px 16px;}
+	.checkbox-v4{	background-image:url(../images/ui/empty_402x.png);						-webkit-background-size:16px 16px;}
+	.checked-v4{	background-image:url(../images/ui/tick_402x.png)!important;				-webkit-background-size:16px 16px;}
 	
-	.radio-v1{		background-image:url(../images/ui/radio@2x.png);						-webkit-background-size:16px 18px;}
-	.balled-v1{		background-image:url(../images/ui/radio-selected@2x.png)!important;		-webkit-background-size:16px 18px;}
-	.radio-v2{		background-image:url(../images/ui/radio2@2x.png);						-webkit-background-size:16px 18px;}
-	.balled-v2{		background-image:url(../images/ui/radio2-selected@2x.png)!important;	-webkit-background-size:16px 18px;}
+	.radio-v1{		background-image:url(../images/ui/radio_402x.png);						-webkit-background-size:16px 18px;}
+	.balled-v1{		background-image:url(../images/ui/radio-selected_402x.png)!important;		-webkit-background-size:16px 18px;}
+	.radio-v2{		background-image:url(../images/ui/radio2_402x.png);						-webkit-background-size:16px 18px;}
+	.balled-v2{		background-image:url(../images/ui/radio2-selected_402x.png)!important;	-webkit-background-size:16px 18px;}
 
 
 	/*//////////////////////////////////////////////////////////////*/
@@ -131,10 +109,10 @@
 
 	/*Blog*/
 		
-	.posted-by{		background-image:url(../images/blog/user@2x.png);	-webkit-background-size:12px 12px;}
-	.posted-at{		background-image:url(../images/blog/time@2x.png);	-webkit-background-size:13px 12px;}
-	.posted-cat{	background-image:url(../images/blog/cat@2x.png);	-webkit-background-size:16px 11px;}
-	.posted-tag{	background-image:url(../images/blog/tag@2x.png);	-webkit-background-size:12px 12px;}
-	.posted-more{	background-image:url(../images/blog/more@2x.png);	-webkit-background-size:17px 12px;}
+	.posted-by{		background-image:url(../images/blog/user_402x.png);	-webkit-background-size:12px 12px;}
+	.posted-at{		background-image:url(../images/blog/time_402x.png);	-webkit-background-size:13px 12px;}
+	.posted-cat{	background-image:url(../images/blog/cat_402x.png);	-webkit-background-size:16px 11px;}
+	.posted-tag{	background-image:url(../images/blog/tag_402x.png);	-webkit-background-size:12px 12px;}
+	.posted-more{	background-image:url(../images/blog/more_402x.png);	-webkit-background-size:17px 12px;}
 	
 };
